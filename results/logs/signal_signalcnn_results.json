@@ -1,0 +1,5 @@
+{
+    "task": "signal",
+    "model": "signalcnn",
+    "accuracy": 96.2
+}
